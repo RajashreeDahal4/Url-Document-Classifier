@@ -2,8 +2,7 @@
 
 
 # Project Description: 
-This purpose of this tag the content of a given url onto one of the five classes "Image","Documentation","Software and Tools",
-"Mission and Instruments", and "Data". 
+The purpose of this project is to classify the content of a given url into one of the six classes "Image","Documentation","Software and Tools", "Mission and Instruments", "Data", and "Training and Education". 
 
 #Datasets:
 Reference link for datasets: https://docs.google.com/spreadsheets/d/1rK7hvb_HRd-sqL3jrSYll5BiDvwnzQY2qVWDmpg6Bbk/edit#gid=1560325588
